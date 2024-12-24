@@ -4,3 +4,4 @@ backend/.env
 
 mysql
 
+*.pdf
