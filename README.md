@@ -1,4 +1,4 @@
-# Projeto para simular aplicação web de Taxi e Uber
+# Amazing Trip - Projeto para simular aplicação web de Taxi e Uber
 
 Projeto FullStack desenvolvido com:
 
