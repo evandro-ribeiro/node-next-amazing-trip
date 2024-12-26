@@ -1,4 +1,8 @@
-# Amazing Trip - Projeto para simular aplicação web de Taxi e Uber
+<img width=100% src="./frontend/public/banner-readme.png"/>
+
+<hr>
+
+# Amazing Trips - Projeto para simular aplicação web de Taxi e Uber
 
 Projeto FullStack desenvolvido com:
 
@@ -6,6 +10,7 @@ Projeto FullStack desenvolvido com:
 - Back-End: Node.js
 - Banco de Dados: MySQL
 - Docker
+- API do Google Maps
 
 ## Rodar o projeto
 
