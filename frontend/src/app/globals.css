@@ -9,7 +9,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: radial-gradient(
+      circle,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 65, 121, 1) 35%,
+      rgba(0, 230, 255, 1) 100%
+    );
     --foreground: #ededed;
   }
 }
@@ -26,7 +31,7 @@ body {
   padding-top: 1rem;
   font-weight: bold;
   font-family: Georgia, "Times New Roman", Times, serif;
-  background: linear-gradient(to right, #fef, #00d);
+  background: linear-gradient(to right, #fef, #06f);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
